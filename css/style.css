@@ -715,6 +715,10 @@ form{
         transform: scale(1.2);
         
 	}
+    .con{
+        transform: scale(1.2);
+        flex-wrap: nowrap;
+    }
     .slider .slick-dots{
         display: flex;
         align-items: center;
